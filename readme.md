@@ -5,7 +5,8 @@ References:
 
 https://github.com/mzolfaghari/ECO-pytorch
 https://github.com/YutaroOgawa/pytorch_advanced/tree/master/9_video_classification_eco
-Weights:
+
+Download Weights:
 
   ECO-Lite pretrained model on Kinetics: https://drive.google.com/open?id=1XNIq7byciKgrn011jLBggd2g79jKX4uD
   ECO-Full pretrained model on Kinetics: https://drive.google.com/open?id=1ATuN_KctsbFAbcNgWDlETZVsy2vhxZay
